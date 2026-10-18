@@ -34,7 +34,7 @@ Over 30% of perishable agricultural produce in India spoils before reaching cons
 <br>
 
 ## 📸 Dashboard Sneak Peek
-*(Drag and drop a screenshot of your Figma UI or working dashboard here to get a GitHub URL, then replace the link below)*
+*(Drag and drop a screenshot of your Figma UI or working dashboard here to get a GitHub URL, then replace the link )*
 
 <div align="center">
   <img src="YOUR_DASHBOARD_SCREENSHOT_URL_HERE" alt="Mission Control Dashboard" width="850" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
