@@ -21,7 +21,7 @@ Our solution integrates three distinct AI paradigms:
 ## 3. Mandatory AI Disclosure (FTL 5.0 Compliance)
 In compliance with the FTL 5.0 Rulebook, we disclose the following regarding AI generation in our codebase:
 
-*   **AI Tools Used:** GitHub Copilot, Gemini 1.5 Pro.
+*   **AI Tools Used:** GitHub Copilot, Gemini 1.5 Pro (Antigravity IDE).
 *   **Purpose:** Boilerplate generation, Tailwind CSS scaffolding, and syntax debugging.
 *   **Code Contribution:** AI-generated code accounts for **< 15%** of the overall codebase. 
-*   **Custom Logic:** Over **85%** of the core logic—including the FastAPI routing, MQTT ingestion, Arrhenius decay algorithms, and XAI dispute arbitration prompts—was custom-written by the team.
+*   **Custom Logic:** Over **40%** of the core logic—including the FastAPI routing, MQTT ingestion, Arrhenius decay algorithms, and XAI dispute arbitration prompts—was custom-written by the team.
